@@ -17,7 +17,8 @@ Electric schema :
 ![](Schema.PNG);
 
 And now, the fun part, how all project looks like :)
-![](first-image.jpg);
-![](second-image.jpg);
+![](first-image.jpg)
+
+![](second-image.jpg)
 
 Have a nice day ;)
