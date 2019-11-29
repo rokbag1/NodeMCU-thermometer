@@ -14,5 +14,5 @@ There is some stuff that needs to be done:
 2. CHange location possibility
 
 Electric schema :
-![Electric schema](Schema.png)
+![](Schema.PNG);
 
