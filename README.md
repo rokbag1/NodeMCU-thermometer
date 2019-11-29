@@ -1,8 +1,8 @@
 # NodeMCU-thermomether
 
 Main goal was to create simpe thermometer which displays both, insides and outsides temperature. This device show:
-* Temperature outside
-
+*Temperature outside
+*Temperature inside
 
 
 There is some stuff that needs to be done:
