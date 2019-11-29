@@ -16,3 +16,8 @@ There is some stuff that needs to be done:
 Electric schema :
 ![](Schema.PNG);
 
+And now, the fun part, how all project looks like :)
+![](first-image.jpg);
+![](second-image.jpg);
+
+Have a nice day ;)
